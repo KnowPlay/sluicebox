@@ -3,7 +3,7 @@
   <h1 align="center">sluicebox</h1>
 
   <p align="center">
-    A learn-by-building ELT pipeline that mines job market intelligence from 130k+ LinkedIn postings.
+    An ELT pipeline that mines job market intelligence from 130k+ LinkedIn postings.
     <br>
     <a href="https://github.com/KnowPlay/sluicebox/issues">» submit a suggestion </a>
     ·
